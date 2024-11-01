@@ -1,4 +1,4 @@
-// Questão 1
+
 let qtdVertice = 0;
 var prompt  = require ('prompt-sync')();
 console.log('1 - Criar Vertices \n2 - Criar Triangulos \n3 - Criar Poligonos \n');
